@@ -1,5 +1,3 @@
-# PostgreSQL-moteur-de-base-de-donnees
-
 
 
 # PostgreSQL : moteur de base de données relationnelle (opensource)
