@@ -2,67 +2,66 @@
 PostgreSQL : moteur de base de données relationnelle (opensource)
 
 
-## Tutoriels Français
 
-- 0.  Sommaire
+ 0.  Sommaire
 
-- 1.  Introduction
+1.  Introduction
 
-- 2.  Installation et répertoires
+2.  Installation et répertoires
 
-- 3.  Principales commandes et Binaires
+3.  Principales commandes et Binaires
 
-- 4.  Procédures arrêts et démarrages
+4.  Procédures arrêts et démarrages
 
-- 5.  Les processus
+5.  Les processus
 
-- 6.  La mémoire : fonctionnement
+6.  La mémoire : fonctionnement
 
-- 8.  PG_HBA : autorisation d'accès
+8.  PG_HBA : autorisation d'accès
 
-- 9.  PSQL : intéragir avec une instance postgres
+9.  PSQL : intéragir avec une instance postgres
 
-- 10.  Databases : templates et création
+10.  Databases : templates et création
 
-- 11.  Tables : création et principes
+11.  Tables : création et principes
 
-- 12.  Index : le B-Tree
+12.  Index : le B-Tree
 
-- 13.  Index : le Hash
+13.  Index : le Hash
 
-- 14.  Vues : matérialisée ou non
+14.  Vues : matérialisée ou non
 
-- 15.  Droits : rôles et users
+15.  Droits : rôles et users
 
-- 16.  Droits : grant et databases
+16.  Droits : grant et databases
 
-- 17.  Droits : les schémas
+17.  Droits : les schémas
 
-- 18.  Droits : tables et colonnes
+18.  Droits : tables et colonnes
 
-- 19.  Logs : configuration, DDL...
+19.  Logs : configuration, DDL...
 
-- 20.  COPY : commande d'export pratique
+20.  COPY : commande d'export pratique
 
-- 21.  Sauvegardes : pg_dump
+21.  Sauvegardes : pg_dump
 
-- 22.  Sauvegardes : pg_dumpall
+22.  Sauvegardes : pg_dumpall
 
-- 23.  Restauration : pg_restore et psql
+23.  Restauration : pg_restore et psql
 
-- 24.  Réplication : mise en place manuelle
+24.  Réplication : mise en place manuelle
 
-- 25.  Réplication : resynchronisation manuelle
+25.  Réplication : resynchronisation manuelle
 
-- 26.  RepMgr : installation et principe
+26.  RepMgr : installation et principe
 
-- 27.  RepMgr : resynchronisation et split brain
+27.  RepMgr : resynchronisation et split brain
 
-- 28.  Réplication : failover automatique avec repmgr et keepalived
+28.  Réplication : failover automatique avec repmgr et keepalived
 
-- 29.  Patroni : la réplication et failover faciles
+29.  Patroni : la réplication et failover faciles
 
-- 30.  Réplication : gestion de failover avec haproxy/xinetd
+30.  Réplication : gestion de failover avec haproxy/xinetd
 
-- 31.  Pg_basebackup : sauvegarde physique
+31.  Pg_basebackup : sauvegarde physique
 
